@@ -1,6 +1,10 @@
 # Siamese-Networks-With-Transfer-Learning
 For Face Recognition on Small Samples Datasets Using Transfer Learning(VGG16)
 
+---
+* 미완성 코드입니다.(실행 가능)
+---
+
 ![image](https://user-images.githubusercontent.com/74164413/172753157-4c7e09ba-d81a-465e-b1b1-af02e4e0ac09.png)<br>
 <h4 align="center">- Siamese Network. (image by author)</h1>
 
@@ -27,7 +31,6 @@ reference : Heidari, Mohsen, and Kazim Fouladi-Ghaleh. "Using Siamese networks w
 - Test.py을 실행하면 두 입력의 유사도를 측정할 수 있습니다.
 - You can measure the similarity between the two inputs by running Test.py
 
-* 미완성 코드입니다.(실행 가능)
 
 <hr>
 reference : https://github.com/harveyslash/Facial-Similarity-with-Siamese-Networks-in-Pytorch 
